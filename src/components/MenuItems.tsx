@@ -13,6 +13,7 @@ export const MenuItems = ({item, addItem} : MenuItemProps) => {
         <p>
           {item.Nombre}
         </p>
+       
     </button>
   )
 }

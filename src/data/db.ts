@@ -174,18 +174,18 @@ export const categorias : CategoryItem[] = [
 export const meseras : CategoryItem[] = [
     {
         id: 1,
-        name: 'Karina'
+        name: 'Mesera 1'
     },
     {
         id: 2,
-        name: 'Dariela'
+        name: 'Mesera 2'
     },
     {
         id: 3,
-        name: 'Arlenis'
+        name: 'Mesera 3'
     },
     {
         id: 4,
-        name: 'Yafresy'
+        name: 'Mesera 4'
     },
 ]

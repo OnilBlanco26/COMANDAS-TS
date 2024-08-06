@@ -20,7 +20,7 @@ function App() {
         <div>
       
         <Chip className="text-3xl uppercase p-4 mb-5" color="primary" variant="shadow">Menu</Chip>
-        <div className="flex gap-2 mb-5">
+        <div className="flex flex-wrap justify-center gap-2 mb-5">
         {
           meseras.map(mesera => (
             <Meseras key={mesera.id} mesera={mesera} setMeseraT={setMeseraT} />
